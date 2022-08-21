@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.mybms</groupId>
-	<artifactId>bms-server</artifactId>
+	<artifactId>bms</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bms-server</name>
+	<name>bms</name>
 	<description>bms server</description>
 	<properties>
 		<java.version>17</java.version>
